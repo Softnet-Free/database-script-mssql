@@ -1,1 +1,3 @@
-# mssql-script
+## Softnet Database Script (MSSQL)
+
+This is an SQL script for creating a Softnet database in MS SQL Server starting from SQL Server 2008.
